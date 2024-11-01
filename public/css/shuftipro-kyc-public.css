@@ -1,0 +1,42 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.testing {
+    color: red !important;
+}
+
+button#quick-kyc-btn:hover {
+    background-color: white;
+    border: 1px solid #ef5350;
+    color: #ef5350;
+}
+
+button#quick-kyc-btn {
+    background-color: #ef5350;
+    border-radius: 40px;
+    border: 1px solid #ef5350;
+    padding: 9px 24px;
+    position: relative;
+    font-weight: 500;
+    font-family: 'Graphik-Medium';
+    color: #ffffff;
+}
+
+
+/* button#quick-kyc-btn:before {
+    content: '';
+    background-image: url(../images/user-icon.svg);
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    background-size: 40px;
+    top: 9px;
+    left: 9px;
+} */
+
+
+/* button#quick-kyc-btn:hover:before {
+    background-image: url(../images/user-icon-h.svg);
+} */

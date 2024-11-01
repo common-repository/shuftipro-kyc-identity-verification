@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Cross icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Russian-Try-Now-Alert-Submitted" transform="translate(-924.000000, -168.000000)">
+            <g id="Group-6" transform="translate(460.000000, 136.000000)">
+                <g id="Group-2">
+                    <g id="Cross-icon" transform="translate(464.000000, 32.000000)">
+                        <circle id="Oval" fill="#1D2C42" cx="12" cy="12" r="12"></circle>
+                        <g id="x" transform="translate(8.250000, 8.250000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                            <path d="M7.5,0 L0,7.5" id="Shape"></path>
+                            <path d="M0,0 L7.5,7.5" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

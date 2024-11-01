@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FD4A55;stroke-width:92;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#FD4A55;stroke-width:93;stroke-miterlimit:10;}
+
+
+
+#circle-2{
+	animation: circle-2-anim 4s infinite;
+	animation-timing-function: cubic-bezier(0.61, 0.04, 0.43, 1);
+    stroke-dasharray: 1550
+    ;
+    transform-origin: 540px 540px;
+    
+    
+}
+
+@keyframes circle-2-anim{
+	0%{
+	    stroke-dashoffset: 1550;
+	    transform: rotate(0deg);
+	}
+	30%, 35%{
+	transform: rotate(0deg);
+	stroke-dashoffset: 0;
+	}
+	65%, 70%{
+	transform: rotate(180deg);
+	stroke-dashoffset: 0;
+	
+	}
+	100%{
+	transform: rotate(180deg);
+	stroke-dashoffset: -1550;
+	
+	}
+}
+
+	
+</style>
+<circle id="circle-1" class="st0" cx="540" cy="540" r="400.18"/>
+<path id="circle-2" class="st1" d="M540,1032c-271.72,0-492-220.28-492-492S268.28,48,540,48"/>
+</svg>
